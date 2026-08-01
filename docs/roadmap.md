@@ -1,27 +1,50 @@
 # Roadmap
 
-## Phase 0
-- Repository
+## Phase 0 - Project Setup
+- Repository creation
 - Documentation
-- Initial structure
+- Initial planning
 
-## Phase 1
-- Architecture
+## Phase 1 - Architecture
+- Software architecture
+- Package structure
+- UML-style diagrams
+- SOLID planning
 
-## Phase 2
+## Phase 2 - Engine
 - JavaFX setup
+- Window creation
+- Game loop
+- State manager
 
-## Phase 3
-- Rendering Engine
+## Phase 3 - Rendering
+- Renderer
+- Sprites
+- Animations
+- Camera
 
-## Phase 4
-- Maze System
+## Phase 4 - Maze
+- Maze loader
+- Tile system
+- Collision
 
-## Phase 5
-- Gameplay
+## Phase 5 - Gameplay
+- Hero
+- Monsters
+- Combat
+- Inventory
+- Items
 
-## Phase 6
-- UI
+## Phase 6 - User Interface
+- Main menu
+- Settings
+- HUD
+- Pause menu
+- Hero customization
 
-## Phase 7
-- Polish
+## Phase 7 - Polish
+- Audio
+- Save system
+- Optimization
+- Testing
+- Documentation
